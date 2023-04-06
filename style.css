@@ -131,6 +131,7 @@ article{
 .social-media >*:is(:hover, :focus){
   border: 1px solid var(--soft-magenta);
   color: var(--soft-magenta);
+  cursor: pointer;
 }
 
 /* MEDIA QUERIES */
